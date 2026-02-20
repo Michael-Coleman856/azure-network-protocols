@@ -47,7 +47,7 @@ Wireshark is a free tool that captures and analyzes network traffic, like observ
 
 <h2>Step 1 - Install Wireshark onto Windows 11 Virtual Machine </h2>
 
-Note: This demonstration uses a Virtual Machine created in a previous project:  [Creating Virtual Machines in Azure Portal](https://github.com/tylergehm/vm)
+Note: This demonstration uses a Virtual Machine created in a previous project:  [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
 </p>
 
 <img width="1674" height="283" alt="image" src="https://github.com/user-attachments/assets/7bf845e4-158b-4672-a735-93c7c1cf5e15" />
