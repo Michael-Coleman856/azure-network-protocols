@@ -1,6 +1,5 @@
 <p align="center">
-<img width="897" height="566" alt="image" src="https://github.com/user-attachments/assets/2e0a472c-bf3f-4ce4-a460-cd545d84cb3f" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8b7091c-d84d-445f-b0c7-0f50d4f08edd" />
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
